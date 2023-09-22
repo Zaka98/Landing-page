@@ -100,6 +100,7 @@ body, html {
     width: 500px;
     height: 220px;
     background-color: grey;
+    box-shadow: 10px 10px 8px black;
 }
 
 .info {
@@ -307,6 +308,7 @@ footer {
     }
 
     .main-image img {
+        margin-top: 1rem;
         width: 100%;
         height: auto;
     }
